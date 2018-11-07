@@ -4,7 +4,8 @@ public class OneArraySort {
 
 	public static void main(String[] args) {
 		
-		int[] array = {69,32,420};
+		int[] array = {//Put your array in here
+					};
 		
 		
 		if(array.length <= 1) { //if for switch
